@@ -1,4 +1,4 @@
-![QuantumMagnetism-Lab cover](assets/cover.png)
+![QuantumMagnetism-Lab cover](QuantumMagnetism-Lab%20cover.png)
 
 # QuantumMagnetism-Lab 🧲⚛️
 
